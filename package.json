@@ -1,0 +1,14 @@
+{
+  "name": "taurus-stock-journal-plugin",
+  "version": "1.0.0",
+  "description": "Stock Trading Journal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Denny Paul",
+  "license": "ISC",
+  "dependencies": {
+    "@wordpress/scripts": "^26.17.0"
+  }
+}
